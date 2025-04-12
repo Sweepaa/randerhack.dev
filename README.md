@@ -10,7 +10,8 @@ A base for cs2
 # Dependencies
 Minhook 
 Dear ImGui
-Kiero 
+[Using kieros base https://github.com/rdbo/ImGui-DirectX-11-Kiero-Hook](https://github.com/rdbo/ImGui-DirectX-11-Kiero-Hook)
+
 
 
 
