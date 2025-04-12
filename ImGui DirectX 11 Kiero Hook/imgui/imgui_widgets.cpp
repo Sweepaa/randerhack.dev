@@ -7253,6 +7253,7 @@ float ImGui::GetColumnNormFromOffset(const ImGuiColumns* columns, float offset)
 
 static const float COLUMNS_HIT_RECT_HALF_WIDTH = 4.0f;
 
+
 static float GetDraggedColumnOffset(ImGuiColumns* columns, int column_index)
 {
     // Active (dragged) column always follow mouse. The reason we need this is that dragging a column to the right edge of an auto-resizing
